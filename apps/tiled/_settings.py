@@ -1,0 +1,12 @@
+FPS = 60
+WIDTH = 800     # display size width
+HEIGHT = 800    # display size height
+TILESIZE = 32
+BOARD_ORIGIN_X = 2 * TILESIZE
+BOARD_ORIGIN_Y = 2 * TILESIZE
+COLS = 20                           # number of columns in the board
+ROWS = 20                           # number of rows in the board
+BOARD_WIDTH = COLS * TILESIZE       # board size width
+BOARD_HEIGHT = ROWS * TILESIZE      # baord size height
+CAMERA_WIDTH = BOARD_WIDTH / 2      # camera size width
+CAMERA_HEIGHT = BOARD_HEIGHT / 2    # camera size height
